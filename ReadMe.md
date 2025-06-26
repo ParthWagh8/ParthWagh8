@@ -1,5 +1,5 @@
 # 💫 About Me:
-I prefer being called a programmer, not a coder 💻<br>My favorite language is Java ☕, but I'm best at Python 🐍<br>I'm interested in backend development with C++ 💡<br>I'm currently in my 1st year 🎓
+I love AI and Math's <br>I'm best at Python <br>I'm interested in Deep Neural Networks<br>I'm currently in my 1st year 
 
 
 ## 🌐 Socials:
