@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love AI and Math's <br>I'm best at Python <br>I'm interested in Deep Neural Networks<br>I'm currently in my 1st year 
+I love AI and Math's <br>I'm interested in Deep Neural Networks<br>I'm currently in my 3rd year 
 
 
 ## 🌐 Socials:
